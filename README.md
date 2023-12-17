@@ -1,2 +1,2 @@
 # 8LetsTravel_CityArray
-Let's Travel SwiftUI List series sixth demo app using city array 
+Let's Travel SwiftUI List series eighth demo app using city array 
